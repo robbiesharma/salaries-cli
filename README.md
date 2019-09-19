@@ -2,4 +2,4 @@
 
 To run this project please do the following:
 1. composer install
-2. ./console.php salary
+2. ./console.php salaries
